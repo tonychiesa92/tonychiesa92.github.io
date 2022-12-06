@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Hello, welcome to my personal portfolio!
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+How I use this website:
+
+To display my hands-on experience building applications leveraging modern web standards and technology.
